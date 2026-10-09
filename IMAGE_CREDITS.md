@@ -11,4 +11,4 @@ All visual assets in this public website repository are original, project-specif
 | `assets/favicon.svg` | Original project-specific mark | No | No |
 | CSS lighting / depth compositions | Original CSS | No | No |
 
-The visuals are intentionally conceptual. They do not depict the internal EGMERS architecture, component count, data flow, model composition, proprietary interfaces or implementation sequence.
+The visuals are intentionally conceptual and do not depict confidential technical structure or implementation detail.
